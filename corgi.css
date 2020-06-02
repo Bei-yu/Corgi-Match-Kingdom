@@ -1,0 +1,360 @@
+.topnav {
+  position: relative;
+  overflow: hidden;
+  font-family: 'Bebas Neue', cursive;
+   background:url(https://assets.teenvogue.com/photos/5ab51cbf86c99f6a2dcc100e/16:9/w_4290,h_2413,c_limit/a-corgi-runs-for-college-student-government-president.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-height:880px;
+  min-height:650px;
+}
+
+.topnav-centered {
+  text-align:center; 
+  margin-top:30px;
+}
+
+.topnav-centered a {
+  font-size:3.5rem;
+  color:white;
+}
+
+.topnav-centered a:hover{
+	text-decoration: none;
+	color:#FBCDB9;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+h3, h5 {
+  color:white;
+}
+
+.col-lg-6 p .search{
+	font-size:1.1rem;
+	margin:40px 80px;
+}
+
+
+.contentCenter .input-group{
+  min-width:260px;
+  padding:0 300px;
+}
+
+
+
+.left-half{
+  padding:0;
+  border-right:1.5px solid white;
+  border-top:3px solid white;
+}
+
+.right-half{ 
+	padding-left:0;
+	padding-right:0;
+  border-top:3px solid white;
+  border-left:1.5px solid white;
+}
+
+.contentCenter{
+    padding:150px 0;
+    text-align:center;
+    z-index:8;
+}
+
+.right1{
+  background:url(https://images.radio.com/aiu-media/GettyImages1061822700-eb517cd2-387f-4448-ab1b-759627ede846.jpg?width=800);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left top;
+  	height:450px;
+ 
+}
+
+
+
+.contentCenter .content{
+	padding-bottom:10px;
+	font-size:1.4rem;
+	color:white;
+}
+
+.contentCenter #label{
+  padding-bottom:8ox;
+  border:0;
+  margin:0;
+}
+.contentCenter p{
+  color:white;
+}
+
+.names{
+	font-size:2.6rem;
+	font-family: 'Bebas Neue', cursive;
+	color:white;
+}
+
+
+.titles{
+	font-size:1.3rem;
+	color:white;
+}
+
+.left1{
+  background:url(https://images.pexels.com/photos/3254429/pexels-photo-3254429.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left top;
+  height:450px;
+}
+
+.left2{
+  background:url(https://s.hdnux.com/photos/74/01/46/15735220/3/920x920.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  height:450px;
+}
+
+
+
+.right2{
+  background:url(https://images2.minutemediacdn.com/image/upload/c_crop,h_1190,w_2119,x_0,y_95/f_auto,q_auto,w_1100/v1554922320/shape/mentalfloss/549058-istock-471884456.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left top;
+  height:450px;
+}
+
+.left3{
+  background:url(https://www.times-standard.com/wp-content/uploads/migration/2016/201611/FEATURES_161109950_EP_-1_TZMWAJSHOHSK.jpg?w=620);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left top;
+  height:450px;
+}
+
+.right3{
+  background:url(https://cdn.shopify.com/s/files/1/0826/6259/files/Pembrokewelshcorgi_large.jpg?v=1564174351);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left top;
+  height:450px;
+}
+
+.left4{
+  background:url(http://static-25.sinclairstoryline.com/resources/media/e823eb5b-4e44-4350-a3cc-f48f56bfa4c0-large16x9_ssdvsdvsdv.jpg?1548383463504);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left top;
+  height:450px;
+}
+
+.right4{
+  background:url(https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2019/02/19131712/NomNomNow_Pembroke_Welsh_Corgis.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left top;
+  height:450px;
+}
+
+.left5{
+  background:url(https://images4.opb.org/c_limit%2Ch_1000%2Cq_90%2Cw_640/artsandlife_20160730_corgibeachday_sc-3_lshp08.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left top;
+  height:450px;
+}
+
+.right5{
+  background:url(https://i.pinimg.com/originals/a0/73/47/a073470f665e36cd575044025b9f73a7.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left top;
+  	height:450px;
+}
+
+.left6{
+  background:url(https://image.shutterstock.com/image-photo/cute-puppy-pembroke-welsh-corgi-260nw-1290320698.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left top;
+  height:450px;
+}
+
+.right6{
+  background:url(https://res.cloudinary.com/jacepharm/image/upload/v1548866862/Depositphotos_53777311_original_cpi3s9.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left top;
+  height:450px;
+}
+
+.left7{
+  background:url(https://dogtime.com/assets/uploads/2016/08/corgi-puppy-6-e1573588370274-1280x720.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left top;
+  height:450px;
+}
+
+.right7{
+  background:url(https://ckcusa.com/media/146219/corgi-halloween-2017.jpg?preset=ckcBlogImage);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left top;
+  height:450px;
+}
+
+.left8{
+  background:url(https://media1.popsugar-assets.com/files/thumbor/DK03BXcetywAY-c_1lygbF5946I/0x0:2003x2003/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/10/07/914/n/1922243/d364c3bd5d9ba66bd05f65.70827753_/i/pictures-corgis-in-halloween-costumes.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left top;
+  height:450px;
+}
+
+.right8{
+  background:url(https://66.media.tumblr.com/98bce458f492951c6f1f98f26f8b9958/tumblr_otdbuhB8xg1qzqrpyo1_500.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:left top;
+  height:450px;
+}
+
+
+.loadmore {
+    padding:20px 0;
+    text-align: center;
+    width: 100%;
+    background-color: #FBCDB9;
+    border-top:3px white solid;
+   
+}
+
+.changeSubscibeBg{
+  background-color:#343434;
+}
+
+
+.loadmore a{
+  color:white;
+  font-size:1.5rem;
+}
+
+#loadMore a {
+  background: #faa635;
+  border-radius: 3px;
+  color: white;
+  display: inline-block;
+  padding: 10px 30px;
+  transition: all 0.25s ease-out;
+  -webkit-font-smoothing: antialiased;
+}
+
+.loadmore a:hover {
+  text-decoration: none;
+}
+
+.loadmore:hover {
+  background-color: #042a63;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#subscribeContainer{
+  display:flex;
+  justify-content: space-around;
+  padding:40px 0;
+}
+
+.subscribe_form{
+  background-color:#343434;
+  border-top:3px white solid;
+}
+
+.subscribe h5{
+  color:white;
+  margin:0;
+  padding-bottom:10px;
+}
+
+.subscribe p{
+  color:white;
+  margin:0;
+}
+
+.subscribe{
+  max-width:500px;
+  float:left;
+}
+
+.container .input-group{
+  float:right;
+  padding-top:20px;
+  height:30px;
+  max-width:300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+  background-color:#EDEDED;
+  color:#D0CCCA;
+  text-transform: capitalize;
+}
+
+footer .container{
+  padding:30px 80px 40px 80px;
+}
+
+footer p{
+  color:#343434;
+  margin-bottom:5px;
+  font-size:1.5rem;
+}
+
+footer a{
+  display:block;
+  color:#969696;
+  font-size:1.2rem;
+}
+
+.copyright{
+  color:#969696;
+  display:flex;
+  align-items: flex-end;
+}
